@@ -1,0 +1,11 @@
+.mb-2{
+    width: 500px;
+    height: 500px;
+}
+
+.h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: midnightblue !important;
+}
